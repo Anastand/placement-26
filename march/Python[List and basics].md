@@ -18,7 +18,6 @@ The above example res is solution in a very simple, senior like manner.
 
 # Module 1: Interview Basics
 
----
 
 ## 1️⃣ Slicing `[start:stop:step]`
 
